@@ -5,4 +5,4 @@
 <a href="/BasicWebDesign/NewsArticle.pdf" target="_self">Click here for more</a></p>
 <h3>Cute dog pictures</h3>
 <p>Here are some pictures of cute little dogs!</p>
-<p><img src="littlewhitedog.jpeg" height="340px"> <img src="whiteandbrowndog.jpeg" height="340px"> <img src="orangedog.jpeg" height="340px"></p>
+<p><img src="littlewhitedog.jpeg" height="300px"> <img src="Whiteandbrowndog.jpeg" height="300px"> <img src="orangedog.jpeg" height="300px"></p>
