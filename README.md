@@ -5,4 +5,4 @@
 <a href="/BasicWebDesign/NewsArticle.pdf" target="_self">Click here for more</a></p>
 <h3>Images</h3>
 <p>Here are some pictures of popular breakfast foods!</p>
-<p><img src="/photos/Waffles.jpeg" alt="Stack of waffles, topped with syrup and butter." height="240px"> <img src="/photos/FrenchToast.jpeg" alt="Two slices of French toast stacked, topped with fruit, syrup and butter." height="240px"> <img src="/photos/Toast.jpeg" alt="A piece of toast with a heart shape cut out and placed to the side, an egg is inside where the heart shape once was, and seasoned with capers and fresh herbs." height="240px"></p>
+<p><img src="/photos/Waffles.jpeg" alt="Stack of waffles, topped with syrup and butter." height="240px"> <img src="/photos/French.jpeg" alt="Two slices of French toast stacked, topped with fruit, syrup and butter." height="240px"> <img src="/photos/Toast.jpeg" alt="A piece of toast with a heart shape cut out and placed to the side, an egg is inside where the heart shape once was, and seasoned with capers and fresh herbs." height="240px"></p>
