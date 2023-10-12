@@ -5,4 +5,4 @@
 <a href="/BasicWebDesign/NewsArticle.pdf" target="_self">Click here for more</a></p>
 <h3>Photo Gallery</h3>
 <p>Here are some images: 
-<a href="/Photo/Dogs.pdf" target"_self">Click here</a></p>
+<a href="/Photo/Dogs.html" target"_self">Click here</a></p>
