@@ -6,37 +6,5 @@
 <h3>Photo Gallery</h3>
 <p>Here are some images: 
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
-
-<h3>Below is a table with correct information</h3>
-<table>
-  <caption>Number of students with siblings according to grade</caption>
-  <tr>
-    <th>Grade</th>
-    <th>Siblings</th>
-    <th>No siblings</th>
-  </tr>
-  <tr>
-    <th>Seniors</th>
-    <td>85</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <th>Juniors</th>
-    <td>30</td>
-    <td>70</td>
-  </tr>
-  <tr>
-    <th>Sophomore</th>
-    <td>68</td>
-    <td>32</td>
-  </tr>
-  <tr>
-    <th>Freshman</th>
-    <td>27</td>
-    <td>73</td>
-  </tr>
-  <tr>
-    <td colspan="2">Total # of students without siblings</td>
-    <td>190</td>
-  </tr>
-</table>
+<h3>Table and list</h3>
+<p>Click <a href="/BasicWebDesign/TableNList.html" target="_self">this link</a>for more!</p>
