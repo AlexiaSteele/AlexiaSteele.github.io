@@ -6,3 +6,40 @@
 <h3>Photo Gallery</h3>
 <p>Here are some images: 
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
+<style>
+  table, tr, td, th {
+    border: 1px solid black;
+    }
+</style>
+<table>
+  <caption>Number of students with siblings according to grade</caption>
+  <tr>
+    <th>Grade</th>
+    <th>Siblings</th>
+    <th>No siblings</th>
+  </tr>
+  <tr>
+    <th>Seniors</th>
+    <td>85</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <th>Juniors</th>
+    <td>30</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <th>Sophomore</th>
+    <td>68</td>
+    <td>32</td>
+  </tr>
+  <tr>
+    <th>Freshman</th>
+    <td>27</td>
+    <td>73</td>
+  </tr>
+  <tr>
+    <td colspan="2">Total with siblings</td>
+    <td>260</td>
+  </tr>
+</table>
