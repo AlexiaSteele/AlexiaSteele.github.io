@@ -6,6 +6,8 @@
 <h3>Photo Gallery</h3>
 <p>Here are some images: 
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
+
+<p>Here is a table with totally correct and backed data!</p>
 <table>
   <caption>Number of students with siblings according to grade</caption>
   <tr>
@@ -35,6 +37,6 @@
   </tr>
   <tr>
     <td colspan="2">Total # of students without siblings</td>
-    <td>260</td>
+    <td>190</td>
   </tr>
 </table>
