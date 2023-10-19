@@ -7,4 +7,4 @@
 <p>Here are some images: 
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
 <h3>Table and list</h3>
-<p>Click <a href="/BasicWebDesign/TableNList.html" target="_self">this link</a>for more!</p>
+<p>Click <a href="/BasicWebDesign/TableNList.html" target="_self">this link</a> for more!</p>
