@@ -7,7 +7,7 @@
 <p>Here are some images: 
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
 
-<p>Here is a table with totally correct and backed data!</p>
+<h3>Below is a table with correct information</h3>
 <table>
   <caption>Number of students with siblings according to grade</caption>
   <tr>
