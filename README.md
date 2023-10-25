@@ -8,3 +8,5 @@
 <a href="/Photo/Dogs.html" target="_self">Click here</a></p>
 <h3>Table and list</h3>
 <p>Click <a href="/BasicWebDesign/TableNList.html" target="_self">this link</a> for more!</p>
+<h3>Math test</h3>
+<p>Please take this <a href="/BasicWebDesign/MathTest.html" target="_self">math test</a>.</p>
