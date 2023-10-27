@@ -10,10 +10,3 @@
 <p>Click <a href="/BasicWebDesign/TableNList.html" target="_self">this link</a> for more!</p>
 <h3>Math test</h3>
 <p>Please take this <a href="/BasicWebDesign/MathTest.html" target="_self">math test</a>.</p>
-
-<form>
-  <select>
-    <option selected>number 1</option>
-    <option>Number 2</option>
-  </select>
-</form>
