@@ -14,5 +14,6 @@
 <form>
   <select>
     <option selected>number 1</option>
+    <option>Number 2</option>
   </select>
 </form>
