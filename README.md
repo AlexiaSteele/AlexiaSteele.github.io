@@ -11,4 +11,4 @@
 <h3>Math test</h3>
 <p>Please take this <a href="/BasicWebDesign/MathTest.html" target="_self">math test</a>.</p>
 <h3>Color scheme!</h3>
-<p>Please <a href="/BasicWebDesign/ColorWeb.html" target="_self">click here</a> to see the color scheme of this page!</p>
+<p>Please <a href="/BasicWebDesign/ColoringWeb.html" target="_self">click here</a> to see the color scheme of this page!</p>
