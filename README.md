@@ -12,3 +12,5 @@
 <p>Please take this <a href="/BasicWebDesign/MathTest.html" target="_self">math test</a>.</p>
 <h3>Color scheme!</h3>
 <p>Please <a href="/BasicWebDesign/ColoringWeb.html" target="_self">click here</a> to see the color scheme of this page!</p>
+<h3>Restaurant Menu</h3>
+<p>Check out our menu <a href="/BasicWebDesign/RestaurantMenu.html" target="_self">here.</a></p>
