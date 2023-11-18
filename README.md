@@ -14,3 +14,5 @@
 <p>Please <a href="/BasicWebDesign/ColoringWeb.html" target="_self">click here</a> to see the color scheme of this page!</p>
 <h3>Restaurant Menu</h3>
 <p>Check out our menu <a href="/BasicWebDesign/RestaurantMenu.html" target="_self">here.</a></p>
+<h3>Example schedule</h3>
+<p>Look at this <a href="/StylishSchedule.html" target="_self">stylish example schedule!</a></p>
