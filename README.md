@@ -17,4 +17,4 @@
 <h3>Example schedule</h3>
 <p>Look at this <a href="/BasicWebDesign/StylishSchedule.html" target="_self">stylish example schedule!</a></p>
 <h3>Staff</h3>
-<p>Take a look at our <a href="/BasicWebDesign/TeamPage.html" target="_self">team page.</a></p>
+<p>Take a look at our <a href="/BasicWebDesign/Team/TeamPage.html" target="_self">team page.</a></p>
