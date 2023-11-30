@@ -16,3 +16,5 @@
 <p>Check out our menu <a href="/BasicWebDesign/RestaurantMenu.html" target="_self">here.</a></p>
 <h3>Example schedule</h3>
 <p>Look at this <a href="/BasicWebDesign/StylishSchedule.html" target="_self">stylish example schedule!</a></p>
+<h3>Staff</h3>
+<p>Take a look at our <a href="/BasicWebDesign/TeamPage.html" target="_self">team page.</a></p>
