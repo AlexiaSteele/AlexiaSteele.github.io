@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<h1>Puzzle</h1>
+<style>
+Section.container {
+Display:flex;
+Width:600px;
+Height:440px;
+Flex-direction:row;
+Flex-wrap:wrap;
+Margin:20px;
+}
+Section div.flex-item {
+width:150px;
+Height:110px;
+}
+Section.grid-container {
+Display:grid;
+Grid-template-columns:1fr 1fr;
+Grid-template-rows: 1fr 2fr;
+Grid-auto-flow:dense;
+Margin:10px;
+}
+Section div.grid-item {
+Background-color:#abcea7;
+Border:1px solid black;
+Height:30px;
+Text-align:center;
+}
+Section div.grid-item2 {
+Background-color:#abceb6;
+Border:1px solid black;
+Height:30px;
+Text-align:center;
+Grid-column-end: span 2;
+}
+</style>
+<section class="grid-container">
+<div class="grid-item">Name: Alexia Steele</div>
+<div class="grid-item">Puzzle: Butterflies</div>
+<div class="grid-item2">Date completed: December, 7th 2023</div>
+</section>
+<section class="container">
+<div class="flex-item"><img src="Imgs/puzzle1_Q.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_G.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_A.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_J.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_M.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_P.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_B.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_H.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_O.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_E.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_N.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_C.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_I.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_F.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_L.jpg"></div>
+<div class="flex-item"><img src="Imgs/puzzle1_K.jpg"></div>
+<div style="visibility:hidden;"><img src="Imgs/puzzle1_D.jpg"></div>
+</section>
+</html>
