@@ -19,4 +19,4 @@
 <h3>Staff</h3>
 <p>Take a look at our <a href="/BasicWebDesign/Team/TeamPage.html" target="_self">team page.</a></p>
 <h3>Puzzle</h3>
-<p>Click <a href="/BasicWebDesign/ButterflyPuzzle/Butterflies.html" target="_self">this link</a>to look at my favorite solved puzzle.</p>
+<p>Click <a href="/BasicWebDesign/ButterflyPuzzle/Butterflies.html" target="_self">this link</a> to look at my favorite solved puzzle.</p>
