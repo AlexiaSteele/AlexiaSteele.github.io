@@ -1,0 +1,17 @@
+Table, tr, td, th {
+Border: 1px solid black; 
+}
+.color1 {
+background-color: #90b1db;
+}
+.color2 {
+Background-color: #cde0cd;
+}
+.color3 {
+Background-color: #ff904f;
+}
+Table {
+Border-collapse:collapse;
+Margin:auto;
+Width:300px;
+}
