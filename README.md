@@ -23,5 +23,5 @@
 <h3>A game of mini golf</h3>
 <p>Some members of our gold club were rewarded with three free mini-golf sessions. Here are the scores from each game!<br/>
 <a href="/BasicWebDesign/scorecards/score1.html" target="_self">Game One</a><br/>
-<a href="/BasicWebDesign/scorecards/score2.html" target="_self">Game two</a><br/>
-<a href="/BasicWebDesign/scorecards/score3.html" target="_self">Game three</a></p>
+<a href="/BasicWebDesign/scorecards/score2.html" target="_self">Game Two</a><br/>
+<a href="/BasicWebDesign/scorecards/score3.html" target="_self">Game Three</a></p>
