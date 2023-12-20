@@ -25,3 +25,5 @@
 <a href="/BasicWebDesign/scorecards/score1.html" target="_self">Game One</a><br/>
 <a href="/BasicWebDesign/scorecards/score2.html" target="_self">Game Two</a><br/>
 <a href="/BasicWebDesign/scorecards/score3.html" target="_self">Game Three</a></p>
+<h3>Video embedding tutorial</h3>
+<p><a href="/BasicWebDesign/video/Videotutorial.html" target="_self">Link to tutorial</a></p> 
