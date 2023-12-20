@@ -20,10 +20,10 @@
 <p>Take a look at our <a href="/BasicWebDesign/Team/TeamPage.html" target="_self">team page.</a></p>
 <h3>Puzzle</h3>
 <p>Click <a href="/BasicWebDesign/ButterflyPuzzle/Butterflies.html" target="_self">this link</a> to look at my favorite solved puzzle.</p>
-<h3>A game of mini golf</h3>
+<h3>Game Sessions</h3>
 <p>Some members of our gold club were rewarded with three free game sessions. Here are the scores from each game!<br/>
 <a href="/BasicWebDesign/scorecards/score1.html" target="_self">Game One</a><br/>
 <a href="/BasicWebDesign/scorecards/score2.html" target="_self">Game Two</a><br/>
 <a href="/BasicWebDesign/scorecards/score3.html" target="_self">Game Three</a></p>
-<h3>Video embedding tutorial</h3>
+<h3>Video Embedding Tutorial</h3>
 <p><a href="/BasicWebDesign/video/Videotutorial.html" target="_self">Link to tutorial</a></p> 
