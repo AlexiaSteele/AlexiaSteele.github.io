@@ -28,4 +28,4 @@
 <h3>Video Embedding Tutorial</h3>
 <p><a href="/BasicWebDesign/video/Videotutorial.html" target="_self">Link to tutorial</a></p> 
 <h3>Imitation of images</h3>
-<p><a href="/BasicWebDesign/5.4_images-assignment(1)/Imitation.html" target="_self">Click here</a> to see the images!</p>
+<p><a href="/BasicWebDesign/Imitation.html" target="_self">Click here</a> to see the images!</p>
