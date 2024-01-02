@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<h1>Imitation Assignment</h1>
+<style>
+.pen {
+Border-radius: 450px 450px 450px 450px / 300px 300px 300px 300px;
+Filter: sepia(65%);
+Border:1px solid black;
+}
+.foot {
+Filter: grayscale(100%);
+Border:50px solid #000;
+Border-image:url(tic-tac-toe.png) 53 round;
+Border-image-slice:53;
+}
+.dino {
+Filter: drop-shadow(13px -2px 5px #000000) hue-rotate(90deg);
+}
+div {
+Height:396px;
+Width:560px;
+Background-image:linear-gradient(135deg, #6495ed, #ffffff);
+Background-color:blue;
+}
+.fly {
+Border-radius:50px 0px 50px 0px;
+Filter:invert(100%) contrast(65%) brightness(150%);
+}
+.theat {
+filter:blur(5px);
+Background-image:url(theater_stage.jpg);
+Width:400px;
+Height:352px;
+}
+.txt {
+Filter:blur(0px);
+Font-size:45px;
+Color:white;
+}
+</style>
+<p><b>Penguins</b></p>
+<img src="penguins.jpg" class="pen">
+<p><b>Football and Tic-tac-toe</b></p>
+<img src="football_field.jpg" class="foot">
+<p><b>Dinosaur</b></p>
+<img src="dinosaur.png" class="dino">
+<p><b>Seagull</b></p>
+<div><img src="seagull.png"></div>
+<p><b>Butterfly</b></p>
+<img src="butterfly.jpg" class="fly">
+<p><b>Stage</b></p>
+<div class="theat">
+<span class="txt">Presenting</span>
+</div>
+</html>
