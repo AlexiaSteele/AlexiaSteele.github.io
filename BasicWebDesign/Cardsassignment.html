@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <style>
+@keyframes flashcardTitle{
+From {color:pink;
+Font-size:50px;}
+To {color:purple;}
+}
+Div h1 {
+Animation-name: flashcardTitle;
+Animation-duration: 2s;
+}
+.flashcard-container:hover .flashcard {
+  transform: rotateY(180deg);
+}
+
+.flashcard-container, .question, .answer {
+  Width:300px;
+ Height:200px
+}
+
+.flashcard {
+	transition: 0.5s;
+	transform-style: preserve-3d;
+}
+
+.question {
+	z-index: 5;
+}
+
+.answer {
+Color:white;
+Background-color:pink;
+	transform: rotateY(180deg);
+}
+
+.question, .answer{
+  backface-visibility: hidden;
+  border:1px solid #aaa;
+  border-radius:10px 10px;
+  margin:auto;
+  text-align:center;
+	position: absolute;
+	top: 0;
+	left: 0;
+  
+}
+.content{
+  padding-top:30%;
+  Font-size:15px;
+}
+.title{
+Text-align:center;
+Color:blue;
+}
+
+</style>
+<div>
+<h1 class="title">Study cards</h1>
+</div>
+<p>
+<p>Number 1</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Anomaly
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        An irregularity or deviation from what is normal.
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 2</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Capricious
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        Unpredictable or changing from time to time. 
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 3</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Accolade
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        An expression of praise, where someone is given an award or a privilege, to acknowledge their merit. 
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 4</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Exacerbate
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        Make worse. 
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 5</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Bourgeoisie
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        he middle class, typically with reference to its perceived materialistic values or conventional attitudes.
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 6</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Cacophony
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        a harsh discordant mixture of sounds
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 7</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Juxtaposition
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        the fact of two things being seen or placed close together with contrasting effect.
+      </div>
+		</div>
+	</div>
+</div>
+<p>Number 8</p>
+<div class="flashcard-container">
+	<div class="flashcard">
+		<div class="question">
+      <div class="content">
+        Vitriol
+      </div>
+		</div>
+		<div class="answer">
+      <div class="content">
+        cruel and bitter criticism.
+      </div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
