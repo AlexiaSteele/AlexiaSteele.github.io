@@ -29,3 +29,5 @@
 <p><a href="/BasicWebDesign/video/Videotutorial.html" target="_self">Link to tutorial</a></p> 
 <h3>Imitation of images</h3>
 <p><a href="/BasicWebDesign/Imitation.html" target="_self">Click here</a> to see the images!</p>
+<h3>Engish Class Flashcards</h3>
+<p>Need some help studying? <a href="/BasicWebDesign/Cardsassignment.html" target="_self">Click this link!</a></p>
