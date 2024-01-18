@@ -32,4 +32,4 @@
 <h3>Engish Class Flashcards</h3>
 <p>Need some help studying? <a href="/BasicWebDesign/Cardsassignment.html" target="_self">Click this link!</a></p>
 <h3>Final Project</h3>
-<p><a href="Index_Final.html" target="_self">View my final project</a></p>
+<p><a href="Final/Index_Final.html" target="_self">View my final project</a></p>
